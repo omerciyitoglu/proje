@@ -1,0 +1,29 @@
+C:\Users\omer\Desktop\Microsoft Office\CYT_OBS\CYT_OBS\bin\Debug\CYTOBS.exe.config
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\bin\Debug\CYTOBS.exe.config
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\bin\Debug\CYTOBS.exe
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\bin\Debug\CYTOBS.pdb
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\obj\Debug\CYTOBS.FrmAdminGiris.resources
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\obj\Debug\CYTOBS.FrmAnaForm.resources
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\obj\Debug\CYTOBS.FrmMüsteriler.resources
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\obj\Debug\CYTOBS.FrmOdalar.resources
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\obj\Debug\CYTOBS.FrmYeniMusteri.resources
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\obj\Debug\CYTOBS.Properties.Resources.resources
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\obj\Debug\CYTOBS.csproj.GenerateResource.Cache
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\obj\Debug\CYTOBS.exe
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\obj\Debug\CYTOBS.pdb
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\obj\Debug\CYTOBS.csprojResolveAssemblyReference.cache
+C:\Users\omer\Desktop\Microsoft Office\CYTOBS\CYTOBS\obj\Debug\CYTOBS.Sınavlar.resources
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\bin\Debug\CYTOBS.exe.config
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\obj\Debug\CYTOBS.exe
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\obj\Debug\CYTOBS.pdb
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\bin\Debug\CYTOBS.exe
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\bin\Debug\CYTOBS.pdb
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\obj\Debug\CYTOBS.csprojResolveAssemblyReference.cache
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\obj\Debug\CYTOBS.FrmAdminGiris.resources
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\obj\Debug\CYTOBS.FrmAnaForm.resources
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\obj\Debug\CYTOBS.FrmMüsteriler.resources
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\obj\Debug\CYTOBS.FrmOdalar.resources
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\obj\Debug\CYTOBS.FrmYeniMusteri.resources
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\obj\Debug\CYTOBS.Properties.Resources.resources
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\obj\Debug\CYTOBS.Sınavlar.resources
+C:\Users\omer\Desktop\Ömer Faruk ÇİYİTOĞLU 2019507062\CYTOBS\CYTOBS\obj\Debug\CYTOBS.csproj.GenerateResource.Cache

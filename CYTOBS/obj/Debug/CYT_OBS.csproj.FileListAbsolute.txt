@@ -1,0 +1,18 @@
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\bin\Debug\CYT_OBS.exe.config
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OBS.csprojResolveAssemblyReference.cache
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OTEL.FrmAdminGiris.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OTEL.FrmAnaForm.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OTEL.FrmMüsteriler.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OTEL.FrmOdalar.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OTEL.FrmYeniMusteri.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OBS.Properties.Resources.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OBS.csproj.GenerateResource.Cache
+C:\Users\omer\Desktop\Microsoft Office\CYT_OBS\CYT_OBS\bin\Debug\CYT_OBS.exe.config
+C:\Users\omer\Desktop\Microsoft Office\CYT_OBS\CYT_OBS\obj\Debug\CYT_OBS.csprojResolveAssemblyReference.cache
+C:\Users\omer\Desktop\Microsoft Office\CYT_OBS\CYT_OBS\obj\Debug\CYT_OTEL.FrmAdminGiris.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT_OBS\CYT_OBS\obj\Debug\CYT_OTEL.FrmAnaForm.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT_OBS\CYT_OBS\obj\Debug\CYT_OTEL.FrmMüsteriler.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT_OBS\CYT_OBS\obj\Debug\CYT_OTEL.FrmOdalar.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT_OBS\CYT_OBS\obj\Debug\CYT_OTEL.FrmYeniMusteri.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT_OBS\CYT_OBS\obj\Debug\CYT_OBS.Properties.Resources.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT_OBS\CYT_OBS\obj\Debug\CYT_OBS.csproj.GenerateResource.Cache

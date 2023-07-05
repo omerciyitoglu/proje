@@ -1,0 +1,14 @@
+C:\Users\omer\Desktop\ÖdevÖmerFarukÇiyitoğlu - Kopya\ÖdevÖmerFarukÇiyitoğlu\CYT OTEL\CYT OTEL\bin\Debug\CYT OBS.exe.config
+C:\Users\omer\Desktop\ÖdevÖmerFarukÇiyitoğlu - Kopya\ÖdevÖmerFarukÇiyitoğlu\CYT OBS\CYT OTEL\bin\Debug\CYT OBS.exe.config
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\bin\Debug\CYT OBS.exe.config
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\bin\Debug\CYT OBS.exe
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\bin\Debug\CYT OBS.pdb
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OTEL.FrmAdminGiris.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OTEL.FrmAnaForm.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OTEL.FrmMüsteriler.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OTEL.FrmOdalar.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OTEL.FrmYeniMusteri.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT_OBS.Properties.Resources.resources
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT OBS.csproj.GenerateResource.Cache
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT OBS.exe
+C:\Users\omer\Desktop\Microsoft Office\CYT OBS\CYT OTEL\obj\Debug\CYT OBS.pdb

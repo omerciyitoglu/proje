@@ -1,0 +1,20 @@
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\bin\Debug\CYT OTEL.exe.config
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\bin\Debug\CYT OTEL.exe
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\bin\Debug\CYT OTEL.pdb
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\obj\Debug\CYT OTEL.csprojResolveAssemblyReference.cache
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\obj\Debug\CYT_OTEL.Properties.Resources.resources
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\obj\Debug\CYT OTEL.csproj.GenerateResource.Cache
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\obj\Debug\CYT OTEL.exe
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\obj\Debug\CYT OTEL.pdb
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\obj\Debug\CYT_OTEL.FrmYeniMusteri.resources
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\obj\Debug\CYT_OTEL.FrmAdminGiris.resources
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\obj\Debug\CYT_OTEL.FrmAnaForm.resources
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\obj\Debug\CYT_OTEL.FrmOdalar.resources
+C:\Users\omer\Desktop\CYT OTEL\CYT OTEL\obj\Debug\CYT_OTEL.FrmMüsteriler.resources
+C:\Users\omer\Desktop\ÖdevÖmerFarukÇiyitoğlu - Kopya\CYT OTEL\CYT OTEL\bin\Debug\CYT OTEL.exe.config
+C:\Users\omer\Desktop\ÖdevÖmerFarukÇiyitoğlu - Kopya\CYT OTEL\CYT OTEL\obj\Debug\CYT OTEL.exe
+C:\Users\omer\Desktop\ÖdevÖmerFarukÇiyitoğlu - Kopya\CYT OTEL\CYT OTEL\obj\Debug\CYT OTEL.pdb
+C:\Users\omer\Desktop\ÖdevÖmerFarukÇiyitoğlu - Kopya\ÖdevÖmerFarukÇiyitoğlu\CYT OTEL\CYT OTEL\bin\Debug\CYT OTEL.exe.config
+C:\Users\omer\Desktop\ÖdevÖmerFarukÇiyitoğlu - Kopya\ÖdevÖmerFarukÇiyitoğlu\CYT OTEL\CYT OTEL\obj\Debug\CYT OTEL.exe
+C:\Users\omer\Desktop\ÖdevÖmerFarukÇiyitoğlu - Kopya\ÖdevÖmerFarukÇiyitoğlu\CYT OTEL\CYT OTEL\obj\Debug\CYT OTEL.pdb
+C:\Users\omer\Desktop\ÖdevÖmerFarukÇiyitoğlu - Kopya\ÖdevÖmerFarukÇiyitoğlu\CYT OTEL\CYT OTEL\bin\Debug\CYT OBS.exe.config
